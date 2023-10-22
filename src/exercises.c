@@ -3,7 +3,7 @@
  * Date:10/22/2023
  *
  * This is a series of exercises to introduce loop
- * control structures.
+ * control  structures.
  *
  */
 #include <stdlib.h>
