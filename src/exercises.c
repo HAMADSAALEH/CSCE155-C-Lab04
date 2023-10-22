@@ -10,7 +10,8 @@
 #include <stdio.h>
 #include <math.h>
 
-int main(int argc, char **argv) {
+int main(int argc, char **argv)
+ {
 
   if(argc != 2) {
     fprintf(stderr, "Usage: %s n\n", argv[0]);
@@ -141,6 +142,8 @@ int main(int argc, char **argv) {
       {
         printf("%d\n", j);
       }
-    }
+    
       return 0;
     }
+    }
+}
